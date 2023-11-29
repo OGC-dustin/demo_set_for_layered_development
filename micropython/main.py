@@ -1,1 +1,6 @@
-# main.py -- put your code here!
+import fw_hal
+import sw_app
+
+hal_init()
+app_init()
+app_start()
